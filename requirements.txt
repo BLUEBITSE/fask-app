@@ -1,0 +1,9 @@
+Flask==3.0.2
+nltk==3.8.1
+pandas==2.2.1
+pke @ git+https://github.com/boudinfl/pke.git@69871ffdb720b83df23684fea53ec8776fd87e63
+pywsd==1.2.5
+requests==2.31.0
+bert-extractive-summarizer==0.10.1
+Werkzeug==3.0.1
+
